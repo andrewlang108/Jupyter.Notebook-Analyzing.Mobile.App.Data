@@ -1,5 +1,7 @@
 # Jupyter.Notebook-Analyzing.Mobile.App.Data
 A Jupyter notebook that analyzes App store and Google Play store data.
+This is a guided project, completed following prompts given through a course by DataQuest.
+
 
 ## Objective:
 Do market research to determine what type of app would perform the best in both the Google and Apple application stores. Performing well means the apps have many downloads and make money. 
